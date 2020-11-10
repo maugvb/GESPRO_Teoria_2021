@@ -10,5 +10,6 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 * Ivan Cortés Aliende <ica1006@alu.ubu.es>
 * Diego Gonzalez Roman <dgr1003@alu.ubu.es>
 * Álvaro Manjón Vara <xmv1001@alu.ubu.es>
+* Juan Luis Garcia-Gonzalez <jgg1009@alu.ubu.es>
 
 
